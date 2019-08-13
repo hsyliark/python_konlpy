@@ -7,3 +7,4 @@
 - 개발자 : Lucy Park (https://github.com/e9t, http://lucypark.kr)
 - 참고1 : https://github.com/PinkWink/DataScience 
 - 참고2 : https://konlpy-ko.readthedocs.io/ko/v0.4.3/#getting-started
+- 참고3 : https://ellun.tistory.com/46
