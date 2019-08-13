@@ -8,3 +8,4 @@
 - 참고1 : https://github.com/PinkWink/DataScience 
 - 참고2 : https://konlpy-ko.readthedocs.io/ko/v0.4.3/#getting-started
 - 참고3 : https://ellun.tistory.com/46
+- 참고4 : https://ericnjennifer.github.io/python_visualization/2018/01/21/PythonVisualization_Chapt1.html
