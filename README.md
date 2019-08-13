@@ -5,4 +5,4 @@
 ### python konlpy
 - 파이썬을 이용하여 한글로 구성된 자연어를 처리할 수 있도록 해주는 패키지.
 - 개발자 : Lucy Park (https://github.com/e9t, http://lucypark.kr)
-- 참고문헌 : 
+- 참고 : https://github.com/PinkWink/DataScience 
